@@ -1,7 +1,25 @@
-Ma config de nametag edit avec prefix crée et ordre 
+# NameTag Edit Setup
 
-(le grade vip+ vip et mini vip = diamant gold et iron)
+## grade liste: 
+- Fonda
+- Admin
+- Resp
+- SuperMod
+- modo
+- dev
+- helper
+- youtube
+- twitch
+- tikTok
+- dimant
+- gold
+- iron
+- joueur
+#
+  # Image du rendu:
+  (Je travaille dessus)
 
 
 
-Ceci est la config de FoxPing mon serveur
+
+### Ceci est la config de FoxPing mon serveur
