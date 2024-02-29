@@ -1,0 +1,71 @@
+Groups:
+  Fonda:
+    Permission: nte.fonda
+    Prefix: '&4&lFondateur &7'
+    Suffix: '&f'
+    SortPriority: 1
+  Admin:
+    Permission: nte.admin
+    Prefix: '&4Admin &7'
+    Suffix: '&f'
+    SortPriority: 2
+  Resp:
+    Permission: nte.resp
+    Prefix: '&cResp &7'
+    Suffix: '&f'
+    SortPriority: 3
+  SuperMod:
+    Permission: nte.supermod
+    Prefix: '&9&lSuper Modo &7'
+    Suffix: '&f'
+    SortPriority: 4
+  modo:
+    Permission: nte.modo
+    Prefix: '&9Modérateur &7'
+    Suffix: '&f'
+    SortPriority: 5
+  dev:
+    Permission: nte.dev
+    Prefix: '&aDévlopeur &7'
+    Suffix: '&f'
+    SortPriority: 6
+  helper:
+    Permission: nte.help
+    Prefix: '&dHelpeur &7'
+    Suffix: '&f'
+    SortPriority: 7
+  youtube:
+    Permission: nte.youtube
+    Prefix: '&c&lYoutubeur &7'
+    Suffix: '&f'
+    SortPriority: 8
+  twitch:
+    Permission: nte.twitch
+    Prefix: '&5Twitch &7'
+    Suffix: '&f'
+    SortPriority: 9
+  tikTok:
+    Permission: nte.tiktok
+    Prefix: '&9TikTok &7'
+    Suffix: '&f'
+    SortPriority: 10
+  dimant:
+    Permission: nte.diamant
+    Prefix: '&bDiamant &7'
+    Suffix: '&f'
+    SortPriority: 11
+  gold:
+    Permission: nte.gold
+    Prefix: '&6Gold &7'
+    Suffix: '&f'
+    SortPriority: 12
+  iron:
+    Permission: nte.iron
+    Prefix: '&8Iron &7'
+    Suffix: '&f'
+    SortPriority: 13
+  joueur:
+    Permission: nte.joueur
+    Prefix: '&7Joueur &7'
+    Suffix: '&f'
+    SortPriority: 99
