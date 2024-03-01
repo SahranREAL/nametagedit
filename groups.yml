@@ -34,36 +34,41 @@ Groups:
     Prefix: '&dHelpeur &7'
     Suffix: '&f'
     SortPriority: 7
+  ami:
+    Permission: nte.ami
+    Prefix: '&2Ami &7'
+    Suffix: '&f'
+    SortPriority: 8 
   youtube:
     Permission: nte.youtube
     Prefix: '&c&lYoutubeur &7'
     Suffix: '&f'
-    SortPriority: 8
+    SortPriority: 9
   twitch:
     Permission: nte.twitch
     Prefix: '&5Twitch &7'
     Suffix: '&f'
-    SortPriority: 9
+    SortPriority: 10
   tikTok:
     Permission: nte.tiktok
     Prefix: '&9TikTok &7'
     Suffix: '&f'
-    SortPriority: 10
+    SortPriority: 11
   dimant:
     Permission: nte.diamant
     Prefix: '&bDiamant &7'
     Suffix: '&f'
-    SortPriority: 11
+    SortPriority: 12
   gold:
     Permission: nte.gold
     Prefix: '&6Gold &7'
     Suffix: '&f'
-    SortPriority: 12
+    SortPriority: 13
   iron:
     Permission: nte.iron
     Prefix: '&8Iron &7'
     Suffix: '&f'
-    SortPriority: 13
+    SortPriority: 14
   joueur:
     Permission: nte.joueur
     Prefix: '&7Joueur &7'
