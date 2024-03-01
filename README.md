@@ -1,13 +1,14 @@
 # NameTag Edit Setup
 
 ## grade liste: 
-- Fonda
-- Admin
-- Resp
-- SuperMod
+- fonda
+- admin
+- resp
+- superMod
 - modo
 - dev
 - helper
+- ami
 - youtube
 - twitch
 - tikTok
@@ -21,10 +22,10 @@
 
 
 ## Future update:
-- Rôle Ami
+
 
 ## Update:
-
+- Rôle Ami
 
 
 ### Ceci est la config de FoxPing mon serveur
