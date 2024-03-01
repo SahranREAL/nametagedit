@@ -20,6 +20,11 @@
   (Je travaille dessus)
 
 
+## Future update:
+- Rôle Ami
+
+## Update:
+
 
 
 ### Ceci est la config de FoxPing mon serveur
