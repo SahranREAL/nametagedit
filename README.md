@@ -7,6 +7,7 @@
 - superMod
 - modo
 - dev
+- build
 - helper
 - ami
 - youtube
@@ -25,7 +26,9 @@
 
 
 ## Update:
+- Rôle Buildeur
 - Rôle Ami
+
 
 
 ### Ceci est la config de FoxPing mon serveur
